@@ -1,0 +1,1 @@
+Desenvolver o código “Hello World” é uma prática comum entre as pessoas que estão aprendendo a programar ou desejam conhecer uma nova linguagem de programação. Normalmente é um dos primeiros contatos com as características da linguagem utilizada.
